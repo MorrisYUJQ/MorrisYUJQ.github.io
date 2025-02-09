@@ -35,17 +35,8 @@ With a unique background combining hospitality education from Les Roches and tec
 ## Current Research
 
 ### MEICN-GAT Project
-Leading the development of MEICN-GAT (Multi-Level and Expert Interest Capsule Network with Graph Attention), a novel recommendation system for luxury business marketing. The system has achieved:
-- 356% higher accuracy
-- 194.7% improved ranking quality
-- Currently under industry implementation in Shanghai and Beijing luxury hotels
+Leading the development of MEICN-GAT (Multi-Level and Expert Interest Capsule Network with Graph Attention), a novel recommendation system for luxury business marketing. 
 
-## Technical Skills
-
-- **Programming**: Python (PyTorch, DGL), SQL
-- **Deep Learning**: Graph Neural Networks, Recommendation Systems
-- **Tools**: Photoshop, Premiere, Excel
-- **Languages**: Chinese (Native), English (Fluent), Japanese (Intermediate), French (Basic)
 
 ## Professional Experience
 
