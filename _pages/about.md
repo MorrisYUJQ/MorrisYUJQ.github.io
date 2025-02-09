@@ -8,51 +8,56 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+## About Me
 
-<span class='anchor' id='about-me'></span>
+I am Jiaqian Yu (Morris), a Master of Philosophy student in Computing at The Hong Kong Polytechnic University, under the supervision of Prof. Jason Zhang Chen. My research focuses on Graph Neural Networks (GNN) applications in Hospitality Recommendation Systems, bridging the gap between computer science and hospitality management.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+With a unique background combining hospitality education from Les Roches and technical expertise in deep learning, I am passionate about developing innovative solutions for the luxury hospitality industry using advanced AI technologies.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+## Research Interests
 
+- Graph Neural Networks (GNN)
+- Recommendation Systems
+- Hospitality-Computing Cross-domain Research
+- Luxury Business Marketing Analytics
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## Education
 
-# 📝 Publications 
+- **Hong Kong Polytechnic University** (2024-2026)  
+  M.Phil. in Computing  
+  Research Focus: Graph Neural Networks in Hospitality Recommendation Systems
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **Les Roches Global Hospitality Education, Switzerland** (2018-2022)  
+  B.B.A. in Hospitality Management  
+  GPA: 3.79/4.0 | Distinction  
+  IB Scholarship Recipient
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+## Current Research
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+### MEICN-GAT Project
+Leading the development of MEICN-GAT (Multi-Level and Expert Interest Capsule Network with Graph Attention), a novel recommendation system for luxury business marketing. The system has achieved:
+- 356% higher accuracy
+- 194.7% improved ranking quality
+- Currently under industry implementation in Shanghai and Beijing luxury hotels
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+## Technical Skills
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Programming**: Python (PyTorch, DGL), SQL
+- **Deep Learning**: Graph Neural Networks, Recommendation Systems
+- **Tools**: Photoshop, Premiere, Excel
+- **Languages**: Chinese (Native), English (Fluent), Japanese (Intermediate), French (Basic)
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## Professional Experience
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+I have diverse experience in both technology and hospitality sectors:
+- Research in AI and recommendation systems
+- Investment analysis at Kylin Investment and Zongxin Investment
+- Hospitality operations at InterContinental and Grand Kempinski Hotel Shanghai
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+## Contact
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Email: 24052745r@connect.polyu.hk
+- Phone: +86 18757470491
+- Location: Hong Kong / Ningbo, China
+
+Feel free to reach out if you're interested in collaboration or have any questions about my research!
